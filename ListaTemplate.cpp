@@ -256,9 +256,9 @@ int main (){
 
 Lista <Soldado> l;
 
-Soldado a ("Fabricio",2888);
-Soldado b ("Leandro",27);
-Soldado c ("Benaio",500);
+Soldado a ("aaaaa",2888);
+Soldado b ("bbbb",27);
+Soldado c ("ccccccccc",500);
 
 l.Insere(a);
 l.Insere(b);
