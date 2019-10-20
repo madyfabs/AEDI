@@ -199,9 +199,9 @@ int main(){
 
 Fila <Soldado> f;
 
-Soldado a ("Fabricio",23);
-Soldado b ("Leandro",27);
-Soldado c ("Benaio",500);
+Soldado a ("aaaaa",23);
+Soldado b ("bbbb",27);
+Soldado c ("cccc",500);
 
 f.Enfileira(a);
 f.Enfileira(b);
